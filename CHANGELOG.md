@@ -1,5 +1,9 @@
 ## Unreleased
 
+## this fork
+
+* use simplabs' version of pretender, which does [basic url recognition](https://github.com/trek/pretender/pull/20/files#diff-0)
+
 ## 0.2.3
 
 * Fix shim to add list of export modules.
